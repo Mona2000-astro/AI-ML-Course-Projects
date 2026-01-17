@@ -22,7 +22,7 @@ Each project is organized in its own folder with a dedicated README.
 
 ---
 
-## 🧠 Techniques & Concepts Demonstrated
+## Techniques & Concepts Demonstrated
 
 * Exploratory Data Analysis (EDA)
 * Feature engineering and preprocessing
@@ -38,7 +38,7 @@ Each project is organized in its own folder with a dedicated README.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ### Programming & Core Libraries
 
@@ -110,7 +110,7 @@ Each project is organized in its own folder with a dedicated README.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Each folder contains:
 
@@ -120,7 +120,7 @@ Each folder contains:
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Notebooks include outputs and visualizations for easy review
 * Datasets are excluded or sampled where necessary
@@ -128,5 +128,5 @@ Each folder contains:
 
 ---
 
-📬 *For project-specific details, please refer to the README inside each project folder.*
+*For project-specific details, please refer to the README inside each project folder.*
 
